@@ -1,4 +1,4 @@
-![Multi-Canteen Management System Poster](C:\Users\Gayan Sampath\.gemini\antigravity\brain\6880df94-9396-4660-97b2-75639b920bcb\multi_canteen_poster_1781865371982.png)
+![Multi-Canteen Management System Poster](poster.png)
 
 # Multi-Canteen Management System
 
